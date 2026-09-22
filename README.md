@@ -22,7 +22,7 @@ Instrucciones de instalación y ejecución en [`fase3_prompts/README.md`](fase3_
 
 ## Estado de la entrega
 
-- [ ] Fase 1 respondida (`justificacion.md`)
-- [ ] Fase 2 respondida (`evaluacion.md`)
-- [ ] Prompts escritos en `fase3_prompts/src/prompts.py`
-- [ ] Comparación de resultados documentada (`fase3_prompts/comparacion_resultados.md`)
+- [x] Fase 1 respondida (`justificacion.md`) — borrador completo, pendiente ajustar con palabras propias
+- [x] Fase 2 respondida (`evaluacion.md`) — borrador completo, pendiente ajustar con palabras propias
+- [x] Prompts escritos en `fase3_prompts/src/prompts.py`
+- [x] Comparación de resultados documentada (`fase3_prompts/comparacion_resultados.md`) — 9 casos de prueba corridos contra ambos backends

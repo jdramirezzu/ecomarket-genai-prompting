@@ -23,7 +23,7 @@ class OllamaBackend(ModelBackend):
     descargado, ej.: `ollama pull llama3.2`.
     """
 
-    def __init__(self, model_name: str = "llama3.2"):
+    def __init__(self, model_name: str = "qwen2.5:7b"):
         self.name = f"ollama:{model_name}"
         self.model_name = model_name
 
