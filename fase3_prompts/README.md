@@ -21,8 +21,12 @@ pip install -r requirements.txt
 ### Backend Ollama (opcional, si quieres usarlo)
 
 1. Instala Ollama: https://ollama.com/download
-2. Descarga un modelo: `ollama pull llama3.2`
+2. Descarga un modelo, ej.: `ollama pull qwen2.5:7b`
 3. Asegúrate de que el servicio esté corriendo (`ollama serve`, normalmente arranca solo).
+
+> En esta máquina ya está instalado Ollama 0.34.0 con los modelos `qwen2.5:7b` (por defecto en
+> `backends.py`), `gemma4:26b`, `llama2` y `abhinema/gpt2-wikitext`. Puedes cambiar el modelo
+> pasando otro nombre a `OllamaBackend(model_name=...)`.
 
 ### Backend Transformers
 
