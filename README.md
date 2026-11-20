@@ -1,3 +1,5 @@
+> **English summary** — Coursework for the Master's in Applied AI (Generative AI course), by Juan Diego Ramírez and Mike Martínez. Designs an LLM-based customer-service assistant for a fictional e-commerce company: model selection and justification, ethical-risk analysis, and prompt engineering for order-status and returns requests. Continued in [ecomarket-rag-assistant](https://github.com/jdramirezzu/ecomarket-rag-assistant). The original deliverables below are in Spanish.
+
 # Taller Práctico #1 — Optimización de la Atención al Cliente en EcoMarket
 
 Repositorio de entrega para el caso de estudio de EcoMarket (Maestría en Inteligencia Artificial Generativa).
